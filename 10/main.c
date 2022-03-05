@@ -8,7 +8,7 @@ int main(void)
 
   for (i = 0; i < 10; i++)
   {
-    flag = 0;
+
     printf("Numero:");
     scanf("%d", &num);
     flag = 0;
